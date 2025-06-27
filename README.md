@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h3 align="center">About me</h3>
 
-<!--
-**Naskar-ae/Naskar-ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <!--<a href="" target="_blank">Website</a> •
+    <img align="center" width=200 alt="top langs" src="" />-->
+  </p>
+  <br/>
+  <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=SiroxCW&theme=dark&border_radius=10px&CACHE_SECONDS=600&layout=donut" />
+  <br/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
